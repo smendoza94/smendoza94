@@ -2,7 +2,7 @@
 <h1 align="center">I'm Steven Mendoza</h1>
 <h3 align="center">Full-Stack MERN & BETH Stack Web Developer and Software Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="/coding_avatar_1.gif">
-1
+
 - 🔭 I’m currently working on [Project Tasks Manager App](https://github.com/smendoza94/task-manager-beth)
 
 - 🌱 I’m currently learning **The BETH Stack (Bun, Elysia, Turso, HTMX), Luau, Godot, C++**
