@@ -1,21 +1,23 @@
 <img align="center" alt="Profile-Banner" width="100%" src="/profile_banner.gif">
-<h1 align="center">I'm Steven Mendoza</h1>
-<h3 align="center">Full-Stack MERN & BETH Stack Web Developer and Software Engineer.</h3>
+<h1 align="center">Steven Mendoza</h1>
+<h3 align="center">MERN Stack & UX/UI Web App Engineer</h3>
 <img align="right" alt="Coding" width="400" src="/coding_avatar_1.gif">
 
-- 🔭 I’m currently working on [Project Tasks Manager App](https://github.com/smendoza94/task-manager-beth)
+- 🔭 Working on [FreeCodeCamp Certification](https://www.freecodecamp.org/sleepysteve1121)
 
-- 🌱 I’m currently learning **The BETH Stack (Bun, Elysia, Turso, HTMX), Luau, Godot, C++**
+- 🕹️ Learning [**Google's Fundumentals of UX Design**](https://www.coursera.org/learner/sleepysteve1121)
 
-- 👯 I’m looking to collaborate on [Journal Log App](https://github.com/smendoza94/journal-log-app)
+- <img src="https://emojis.slackmojis.com/emojis/images/1713356784/92104/cat_dance_jam.gif?1713356784" alt="dance-cat-slack-emoji" width="20"/> Let's collaborate in **Game Development** in ***Roblox Lua*** or ***Unreal Engine 5***!
 
 - 🤝 I’m looking for help with [Game Development in Roblox Studio Luau, Unreal Engine 5, or Godot Engine](https://create.roblox.com/dashboard/creations/experiences/4200234195/overview)
+
+- 🌱 Fascinated by **BETH Stack (Bun, Elysia, Turso, HTMX)**
 
 - 👨‍💻 All of my projects are available at [smendoza94.github.io/portfolio-landing-simple/](smendoza94.github.io/portfolio-landing-simple/)
 
 - 📫 How to reach me **stevenbmendoza@gmail.com**
 
-- ⚡ Fun fact **There will be a time where I am contributing to the greater well being and known public knowledge by creating interesting and entertaining content online.**
+- ⚡ Fun fact **"My life goal is to make everyone's life easier so that they may pursue their passions. I want to rid this existance of unnecessary worries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
